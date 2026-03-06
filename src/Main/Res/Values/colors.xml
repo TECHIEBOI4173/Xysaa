@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="primary">#7C4DFF</color>
+    <color name="primary_dark">#5E35B1</color>
+    <color name="primary_light">#EDE7F6</color>
+
+    <!-- Surface -->
+    <color name="background">#F5F5F7</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Type colors -->
+    <color name="color_youtube">#FF0000</color>
+    <color name="color_place">#00897B</color>
+    <color name="color_instagram">#E91E63</color>
+    <color name="color_default">#455A64</color>
+</resources>

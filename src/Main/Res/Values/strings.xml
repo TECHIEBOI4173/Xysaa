@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReelSaver</string>
+    <string name="save_to_reelsaver">Save to ReelSaver</string>
+    <string name="detecting_content">Detecting content…</string>
+    <string name="save">Save</string>
+    <string name="discard">Discard</string>
+    <string name="add_notes">Add notes (optional)</string>
+    <string name="saved_successfully">✅ Saved successfully!</string>
+</resources>
